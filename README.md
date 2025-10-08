@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Dev Whale.</h2>
 
 ###
-🌍 Passionate Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
+🌍 Full-Cycle DevOps & Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
 💻 Advocate of Open Source | 🚀 Java • Python • Dart Enthusiast
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
