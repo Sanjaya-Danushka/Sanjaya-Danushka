@@ -2,7 +2,7 @@
 
 ###
 🌍 Full-Cycle DevOps & Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
-💻 Advocate of Open Source | 🚀 Java • Python • Dart Enthusiast
+💻 Advocate of Open Source 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
