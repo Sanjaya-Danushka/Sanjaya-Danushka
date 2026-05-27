@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! I'm Dev Whale.</h2>
+<h2 align="left">Hi 👋! I'm Dev Whale.</h2> 
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Cycle+Engineer+🚀;Architecting+Systems+at+Scale;Automation+%7C+DevOps+%7C+Cloud;Open+Source+Builder" />
+</h1>
+
 
 ###
 🌍 Full-Cycle DevOps & Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
