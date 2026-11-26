@@ -5,6 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Cycle+Engineer+🚀;Architecting+Systems+at+Scale;Automation+%7C+DevOps+%7C+Cloud;Open+Source+Builder" />
 </h1>
 
+### 💻 Explore My Work
+
+<div align="center">
+  <a href="https://github.com/sanjayadanushka712">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-00FFAA?style=for-the-badge&logo=github&logoColor=181717&labelColor=181717" height="50" alt="Explore My GitHub Work" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/sanjayadanushka712">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjayadanushka712&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub profile statistics" />
+  </a>
+</div>
+
+<p align="center">
+  <i>Explore my repositories, engineering projects, open-source contributions, and technical experiments.</i>
+</p>
 
 ###
 🌍 Full-Cycle DevOps & Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
